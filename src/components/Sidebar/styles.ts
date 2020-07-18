@@ -34,7 +34,7 @@ export const Label = styled.span`
 
 export const Divider = styled.div`
   background-color: var(--text);
-  width: 90%;
+  width: 100%;
   height: 1px;
   opacity: 0.2;
 `;
