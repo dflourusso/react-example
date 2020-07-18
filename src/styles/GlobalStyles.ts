@@ -22,8 +22,8 @@ export default createGlobalStyle`
     --secondary: #1B5EB1;
     --error: #D84654;
     --text: #fff;
-    --background: #7C8A86;
-    --background-light: #9EB0AC;
-    --background-dark: #5A6361;
+    --background: #777;
+    --background-light: #555;
+    --background-dark: #333;
   }
 `
